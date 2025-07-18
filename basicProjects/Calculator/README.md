@@ -1,6 +1,6 @@
 Simple Operations Calculator
 
-This calculator can calculate using the operations of Addition (+), Subtraction (-), Multiplication (*) and Division (/).
+This calculator can calculate using the operations of Addition (+), Subtraction (-), Multiplication (*), Power (^) and Division (/).
 
 Objective:
 To utilize the basic knowledge from learning C++ and to implement it in a simple project.
